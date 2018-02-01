@@ -1,0 +1,35 @@
+CodeVisionAVR C Compiler V1.24.8d Professional
+(C) Copyright 1998-2006 Pavel Haiduc, HP InfoTech s.r.l.
+http://www.hpinfotech.com
+
+File: C:\Documents and Settings\user\Desktop\bluetooth attendance EDITED\r.c
+Global variables memory map:
+
+Variable                          Address   Size
+timer_count_info1                                                       R2      1
+timer_count_info                                                        R3      1
+attendance1                                                             R4      1
+attendance2                                                             R5      1
+attendance3                                                             R6      1
+attendance4                                                             R7      1
+display_atd                                                             R8      1
+code                                                                    R9      1
+card                                                                  180h      8
+msg                                                                   188h     16
+msg1                                                                  198h     16
+msg2                                                                  1A8h     14
+msg3                                                                  1B6h     15
+r                                                                     1C5h      4
+a                                                                     1C9h      4
+b                                                                     1CDh      4
+c                                                                     1D1h      4
+d                                                                     1D5h      3
+rx_buffer0                                                            1D8h      8
+rx_wr_index0                                                           R10      1
+rx_rd_index0                                                           R11      1
+rx_counter0                                                            R12      1
+rx_buffer_overflow0                                               GPIOR0.0    1/8
+tx_buffer0                                                            1E0h      8
+tx_wr_index0                                                           R13      1
+tx_rd_index0                                                           R14      1
+tx_counter0                                                           1E8h      1
